@@ -1,6 +1,6 @@
 # cls
 
-A new Flutter project.
+a fruniture app made with a group of student as a learning project.
 
 ## Getting Started
 
